@@ -9,22 +9,22 @@
 
 # Fonderie brand
 
-Assets and guidelines for [Fonderie](https://fonderiejs.com) — the open
+Assets and guidelines for [Fonderie](https://fonderiejs.com) - the open
 foundry for casting SaaS you own.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="export/x-banner.png">
-  <img alt="Stop renting your own software — npm install @fonderie/core" src="export/x-banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="export/x-banner.png?v1.0.0">
+  <img alt="Stop renting your own software — npm install @fonderie/core" src="export/x-banner-light.png?v1.0.0">
 </picture>
 
 <p>
-  <img alt="Mark, dark tile (primary)" src="export/x-avatar.png" width="96">
+  <img alt="Mark, dark tile (primary)" src="export/x-avatar.png?v1.0.0" width="96">
   &nbsp;
-  <img alt="Mark, light tile" src="export/x-avatar-light.png" width="96">
+  <img alt="Mark, light tile" src="export/x-avatar-light.png?v1.0.0" width="96">
 </p>
 
 <p>
-  <img alt="Lockup, dark" src="src/fonderie-lockup-dark.svg" height="32">
+  <img alt="Lockup, dark" src="src/fonderie-lockup-dark.svg?v1.0.0" height="32">
 </p>
 
 
